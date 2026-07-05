@@ -19,7 +19,6 @@ I work with forms, sheets, emails, Telegram bots, and cloud workflows to create 
 **Communication:** Gmail API, Telegram Bot API, email workflows  
 **Cloud:** Docker, Oracle Cloud, Caddy  
 **Web:** Next.js, TypeScript, Tailwind CSS  
-**AI:** ChatGPT, Codex, Gemini, Grok
 
 ## Current focus
 
