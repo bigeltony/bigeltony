@@ -1,30 +1,41 @@
 # Hi, I’m Kinika Anthony Ndah
 
-I build practical automation systems for real workflow problems.
+Most people call me Anthony.
 
-I work with forms, sheets, emails, Telegram bots, and cloud workflows to create simple systems that help people work faster, stay organized, and reduce manual work.
+I build practical systems that make work easier.
 
-## What I build
+**AI Automation & Support Systems Builder | Job-Tech, Email & Workflow Systems**
 
-- Job alert and matching workflows
-- Telegram-controlled email systems
-- Google Sheets and Forms automations
-- Admin review queues and support workflows
-- Lightweight portfolio and business systems
+My work focuses on reducing repetitive tasks, organizing information properly and building systems people can actually use.
+
+## Featured projects
+
+### Rolvica Job Radar
+
+A job matching and alert system built around one principle: relevant jobs, not random jobs.
+
+### Rolvica MultiEmail
+
+A multi-email management system for organizing inbox activity, protecting important messages and reducing repetitive email work.
+
+### Personal Portfolio
+
+A clean portfolio showing my projects, experience, education, CV and the Ask Anthony assistant.
+
+## How I work
+
+I build one step at a time, test carefully and document important decisions so each system can be maintained and improved.
 
 ## Tools I work with
 
-**Automation:** n8n, workflow design, review queues  
-**Data:** Google Sheets, Google Forms, data cleaning  
-**Communication:** Gmail API, Telegram Bot API, email workflows  
-**Cloud:** Docker, Oracle Cloud, Caddy  
-**Web:** Next.js, TypeScript, Tailwind CSS  
+- **Automation:** n8n and workflow design
+- **Data:** Google Sheets, Google Forms and data cleaning
+- **Email and communication:** Gmail API, email workflows and Telegram Bot API
+- **Web:** HTML, CSS, JavaScript, Next.js, TypeScript and Tailwind CSS
+- **Infrastructure:** Docker, Oracle Cloud and Caddy
 
-## Current focus
+## Connect with me
 
-Building clean automation systems, support workflows, and portfolio-ready tools for real users and small businesses.
-
-## Connect
-
-LinkedIn: linkedin.com/in/anthonykinika  
-Email: kinikaanthony21@mail.com
+- **Portfolio:** https://anthony-kinika.netlify.app
+- **LinkedIn:** https://www.linkedin.com/in/anthonykinika/
+- **Email:** kinikaanthony21@gmail.com
