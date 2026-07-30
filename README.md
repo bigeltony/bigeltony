@@ -36,6 +36,6 @@ I build one step at a time, test carefully and document important decisions so e
 
 ## Connect with me
 
-- **Portfolio:** https://anthony-kinika.netlify.app
+- **Portfolio:** https://anthonykinika.rolvica.com
 - **LinkedIn:** https://www.linkedin.com/in/anthonykinika/
 - **Email:** kinikaanthony21@gmail.com
