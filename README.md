@@ -2,25 +2,23 @@
 
 Most people call me Anthony.
 
-I build practical systems that make work easier.
+I’m the founder of **Rolvica Limited** and an **AI and Automation Specialist** focused on building practical systems that make work easier.
 
-**AI Automation & Support Systems Builder | Job-Tech, Email & Workflow Systems**
+My work centres on workflow automation, support systems and digital products designed around real problems.
 
-My work focuses on reducing repetitive tasks, organizing information properly and building systems people can actually use.
-
-## Featured projects
+## Featured work
 
 ### Rolvica Job Radar
 
-A job matching and alert system built around one principle: relevant jobs, not random jobs.
+A job-matching and alert system built around one principle: **relevant jobs, not random jobs**.
 
 ### Rolvica MultiEmail
 
-A multi-email management system for organizing inbox activity, protecting important messages and reducing repetitive email work.
+A multi-account email workspace being built to bring connected inboxes together, support replies from the correct account and surface important messages.
 
 ### Personal Portfolio
 
-A clean portfolio showing my projects, experience, education, CV and the Ask Anthony assistant.
+My professional portfolio, featuring my projects, experience, education, CV and the Ask Anthony assistant.
 
 ## How I work
 
